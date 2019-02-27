@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application Bootstrap</string>
+    <string name="hellobtn">Hello</string>
+    <string name="homebtn">Home</string>
+    <string name="enterName">Enter your name</string>
+    <string name="welcomeText">Welcome on Grow Up</string>
+    <string name="send">Send</string>
+    <string name="yourName">Your name</string>
+</resources>

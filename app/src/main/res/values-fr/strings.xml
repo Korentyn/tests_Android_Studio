@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon application Bootstrap</string>
+    <string name="hellobtn" translatable="false">Bonjour</string>
+    <string name="homebtn" translatable="false">Accueil</string>
+    <string name="enterName">Entrez votre nom</string>
+    <string name="welcomeText">Bienvenue sur Grow Up</string>
+    <string name="send">Envoyer</string>
+    <string name="yourName">Votre nom</string>
+</resources>
